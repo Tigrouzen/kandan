@@ -12,7 +12,7 @@
 
 <hr>
 # <a name="requirements"></a>Requirements
-* Ruby 1.9
+* Ruby 1.9.3
 
 <hr>
 # <a name="warning"></a>WARNING
